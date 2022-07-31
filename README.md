@@ -7,7 +7,8 @@
 <br>
 <strong>+ FUD)</strong>
 <br>
-<strong>+ A encryption method</strong>
+<strong>+ Unique encryption method</strong>
+<strong>And a customizable embed feature</strong>
 <br><a href="https://github.com/W6Z">DEVELOPER</a>!
 <br><br>
 
@@ -17,3 +18,4 @@
 
 
 A powerful token/cookie grabber, creates a fully undetectable cookie/token logger within seconds, undetected by any AV as well.
+(Cannot be compiled to an exe
