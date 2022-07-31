@@ -1,6 +1,6 @@
-# Asari-
+## Asari-
 
-### <p align="center">Asari</p>
+### <p align="center">Asari Logger</p>
 <br><br>
 <p align="center">
 <strong><strong>+ No extra libraries</strong>
