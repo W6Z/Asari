@@ -12,6 +12,10 @@
 <br><a href="https://github.com/W6Z">DEVELOPER</a>!
 <br><br>
 
+## Requirements
+* ` pystyle `
+
+
 ![image](https://user-images.githubusercontent.com/68764672/182004580-b2ee5166-c9aa-4564-ae8a-d2553656f201.png)
 ![image](https://user-images.githubusercontent.com/68764672/182004583-d43d876f-88f6-4104-9bf3-8a68549d5447.png)
 
